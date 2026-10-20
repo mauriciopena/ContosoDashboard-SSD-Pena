@@ -256,6 +256,7 @@ ServiceFabricBackup/
 *.mdf
 *.ldf
 *.ndf
+ContosoDashboard/*.db
 
 # Business Intelligence projects
 *.rdl.data
